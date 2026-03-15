@@ -28,5 +28,7 @@ Building this project helped solidify the following Zustand concepts:
 - Reading and updating state cleanly from within components without needing complex `Providers` or wrappers.
 - Separating business logic (state updates) from the UI layer.
 
-## Images
+
+
+
 
